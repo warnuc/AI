@@ -95,4 +95,4 @@ Previsões pra 4 e 5:
 - O primeiro código é mais fácil de expandir – dá pra usar pra classificar coisas reais, como texto ou imagens, com mais dados.
 - O segundo é o básico de redes neurais – pra algo como eu (Grok), usam redes com milhões de neurônios e camadas.
 
-Quer tentar rodar um desses? Ou prefere que eu explique mais alguma parte, tipo como adicionar mais camadas na rede neural? Você manda, chefe!
+
